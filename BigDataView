@@ -1,5 +1,5 @@
 proxies:
-- {name: Workers0001, server: customer.l53.net, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: PLACEHOLDER.workers.dev}}}
+  - {name: Workers0001, server: customer.l53.net, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: PLACEHOLDER.workers.dev}}}
   - {name: Workers0002, server: customer.l53.net, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: PLACEHOLDER.workers.dev}}}
   - {name: Workers0003, server: customer.l53.net, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: PLACEHOLDER.workers.dev}}}
   - {name: Workers0004, server: customer.l53.net, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: PLACEHOLDER.workers.dev}}}
